@@ -1,0 +1,10 @@
+{
+  "name": "AutoDoctor PRO KZ",
+  "short_name": "AutoDoctor",
+  "description": "Автомобильный помощник по ремонту и запчастям",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "icons": []
+}
